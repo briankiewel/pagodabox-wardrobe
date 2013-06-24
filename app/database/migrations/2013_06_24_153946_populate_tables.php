@@ -17,7 +17,7 @@ class PopulateTables extends Migration {
 			'first_name' => 'Wardrobe',
 			'last_name'  => 'Admin',
 			'email'      => 'admin@admin.com',
-			'password'   => Hash::make('password'),
+			'password'   => Hash::make('wardrobe'),
 			'active'     => 1,
 			'created_at' => DB::raw('NOW()'),
 			'updated_at' => DB::raw('NOW()')
