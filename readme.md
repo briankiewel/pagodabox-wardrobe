@@ -1,3 +1,11 @@
+# Wardrobe CMS Pagoda Box Quickstart
+
+View the [wiki](https://github.com/briankiewel/pagodabox-wardrobe/wiki) for installation and configuration instructions.
+
+Last updated: 6/24/2013
+
+---
+
 ## Wardrobe
 
 Wardrobe is designed to be a very minimal blogging platform with the primary focus on writing. Currently it is a work in progress but you are free to give it a try. (Just be warned this alpha/beta quality). If you have any issues or ideas please report them.
